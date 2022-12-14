@@ -1,0 +1,28 @@
+id: ID8E727FE
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:13:46.559284+00:00
+last_modified: 2022-12-14 18:13:46.559288+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-09-11T00:27:56.057Z'
+  creationid: K.S.
+  eft-text-id: UT22084-081-006
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_437-The_Practice_Manual_of_Noble_Tara_Kurukulla-v1
+bases:
+  BB84:
+    source_metadata: null
+    order: 1
+    base_file: BB84.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
